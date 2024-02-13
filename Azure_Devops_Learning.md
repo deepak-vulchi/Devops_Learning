@@ -6,3 +6,8 @@
 3. Exploring Azure and its account creation
 4. difference between Iaas vs SaaS vs PaaS
 
+# projects:
+1. Creating the VM and VNet.
+2. Deploying the application behind firewall on azure
+3. Migrating the Vote application from Github to Azure CI/CD.
+
