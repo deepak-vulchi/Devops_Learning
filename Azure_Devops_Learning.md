@@ -8,8 +8,11 @@
 
 # Projects:
 1. Creating the VM and VNet.
-2. Deploying the application behind firewall on azure
-3. Migrating the Vote App from Github to Azure DevOps with CI/CD Pipelines.
+2. Deploying the application behind the firewall on Azure
+3. Migrating the Vote App from GitHub to Azure DevOps with CI/CD Pipelines.
+4. Automating Real-time event triggers on AWS
+5. Automating the AWS Infrastructure with Terraform
+6. Cloud Cost Optimization in AWS
 
 # 3. GitHub to Azure DevOps Vote App Migration with CI/CD
 Migrating the "Vote App" from GitHub to Azure DevOps with CI/CD Pipelines can be an excellent project to showcase your skills in version control, infrastructure management, and continuous integration/continuous deployment. Here's a step-by-step guide on how you can approach this project:
@@ -38,7 +41,7 @@ Migrating the "Vote App" from GitHub to Azure DevOps with CI/CD Pipelines can be
 
   6. **Integrate IaC with CI/CD Pipelines**:
    - Incorporate the IaC deployment process into your CI/CD pipelines to ensure that infrastructure changes are applied consistently alongside application updates.
-   - Trigger infrastructure provisioning/deprovisioning as part of the deployment process.
+   - Trigger infrastructure provisioning/de-provisioning as part of the deployment process.
 
   7. **Test and Validate**:
    - Test the CI/CD pipelines thoroughly to ensure that they build and deploy the Vote App correctly.
