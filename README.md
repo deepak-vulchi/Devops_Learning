@@ -20,6 +20,24 @@ This is DevOps Learning and Its related projects Repository.
 # Third Step:
 1. Understanding the Git and Gitup and Git branching Strategy with real-life examples.
 2. Project based on shell scripting and VM.
-3. understanding the Ansible
-4. Infrastructure As Code(IAC)
+3. Infrastructure as code (IAC)
+4. Ansible
+5. Terraform
+
+# Fourth Step:
+1. What is CI/CD
+2. Tools Used for CI/CD
+3. Jenkins
+4. Project related to Jenkins
+
+# Fifth Step:
+1. Project management tools
+2. Jira overview
+3. Containers
+4. Docker
+
+# Final Step:
+1. Kubernetes
+2. K8s
+3. Final Projects and preparing for interview questions
 
