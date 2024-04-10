@@ -11,7 +11,7 @@
 ## Docker 
 1. https://www.youtube.com/playlist?list=PL1jY4BuFJn1euW9_1-r0CeQU0xDMFXSIK [Telugu]
 2. https://www.youtube.com/playlist?list=PLFoX_td1iTj-ATh48yU4qudcsLPi2kzv0 [Telugu]
-3. 
+3. https://www.youtube.com/playlist?list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC [English] ****
 
 
 
